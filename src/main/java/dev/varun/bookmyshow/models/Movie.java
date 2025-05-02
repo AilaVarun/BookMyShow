@@ -1,4 +1,16 @@
-package dev.varun.bookmyshow.Models;
+package dev.varun.bookmyshow.models;
 
-public class Movie {
+import lombok.Getter;
+import lombok.Setter;
+
+import java.util.List;
+
+
+@Getter
+@Setter
+public class Movie extends BaseModel{
+
+    private String name;
+    private String description;
+    private List<String> languages;
 }

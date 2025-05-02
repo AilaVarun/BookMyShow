@@ -1,4 +1,14 @@
-package dev.varun.bookmyshow.Models;
+package dev.varun.bookmyshow.models;
 
-public class ShowSeat {
+import dev.varun.bookmyshow.models.enums.ShowSeatStatus;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+public class ShowSeat extends BaseModel {
+    private Show show;
+    private Seat seat;
+    private Long price;
+    private ShowSeatStatus showSeatStatus;
 }

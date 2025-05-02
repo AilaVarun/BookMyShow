@@ -1,4 +1,4 @@
-package dev.varun.bookmyshow.Models.enums;
+package dev.varun.bookmyshow.models.enums;
 
 public enum PaymentMode {
 
