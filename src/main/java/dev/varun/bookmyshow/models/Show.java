@@ -9,7 +9,7 @@ import java.util.List;
 
 @Getter
 @Setter
-@Entity
+@Entity(name="Shows")
 public class Show extends BaseModel {
 
     @ManyToOne
