@@ -1,6 +1,5 @@
 package dev.varun.bookmyshow.models;
 
-import com.fasterxml.jackson.databind.ser.Serializers;
 import dev.varun.bookmyshow.models.enums.Feature;
 import jakarta.persistence.*;
 import lombok.Getter;
