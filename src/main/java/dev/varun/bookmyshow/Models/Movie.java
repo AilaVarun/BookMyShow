@@ -1,4 +1,4 @@
-package dev.varun.bookmyshow.Models;
+package dev.varun.bookmyshow.models;
 
 import jakarta.persistence.Entity;
 import lombok.Getter;

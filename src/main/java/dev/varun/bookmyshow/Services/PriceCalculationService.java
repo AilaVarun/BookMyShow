@@ -1,6 +1,6 @@
 package dev.varun.bookmyshow.Services;
 
-import dev.varun.bookmyshow.Models.ShowSeat;
+import dev.varun.bookmyshow.models.ShowSeat;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

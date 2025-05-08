@@ -1,6 +1,6 @@
 package dev.varun.bookmyshow.repositories;
 
-import dev.varun.bookmyshow.Models.User;
+import dev.varun.bookmyshow.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package dev.varun.bookmyshow.Models;
+package dev.varun.bookmyshow.models;
 
-import dev.varun.bookmyshow.Models.enums.BookingStatus;
+import dev.varun.bookmyshow.models.enums.BookingStatus;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

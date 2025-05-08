@@ -1,6 +1,6 @@
 package dev.varun.bookmyshow.repositories;
 
-import dev.varun.bookmyshow.Models.ShowSeat;
+import dev.varun.bookmyshow.models.ShowSeat;
 import jakarta.persistence.LockModeType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Lock;
