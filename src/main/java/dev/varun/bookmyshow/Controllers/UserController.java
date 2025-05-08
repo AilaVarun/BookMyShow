@@ -1,7 +1,7 @@
-package dev.varun.bookmyshow.Controllers;
+package dev.varun.bookmyshow.controllers;
 
-import dev.varun.bookmyshow.Models.User;
-import dev.varun.bookmyshow.Models.enums.ResponseStatus;
+import dev.varun.bookmyshow.models.User;
+import dev.varun.bookmyshow.models.enums.ResponseStatus;
 import dev.varun.bookmyshow.Services.UserService;
 import dev.varun.bookmyshow.dtos.SignUpRequestDTO;
 import dev.varun.bookmyshow.dtos.SignUpResponseDTO;

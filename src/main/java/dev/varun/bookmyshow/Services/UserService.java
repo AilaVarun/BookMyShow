@@ -1,6 +1,6 @@
 package dev.varun.bookmyshow.Services;
 
-import dev.varun.bookmyshow.Models.User;
+import dev.varun.bookmyshow.models.User;
 import dev.varun.bookmyshow.repositories.UserRepository;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

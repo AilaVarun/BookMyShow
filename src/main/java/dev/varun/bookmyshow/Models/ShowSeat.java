@@ -1,6 +1,6 @@
-package dev.varun.bookmyshow.Models;
+package dev.varun.bookmyshow.models;
 
-import dev.varun.bookmyshow.Models.enums.ShowSeatStatus;
+import dev.varun.bookmyshow.models.enums.ShowSeatStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
