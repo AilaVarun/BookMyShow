@@ -1,9 +1,6 @@
 package dev.varun.bookmyshow.Models.enums;
 
-public enum PaymentStatus {
-
+public enum ResponseStatus {
     SUCCESS,
     FAILURE,
-    PENDING,
-
 }

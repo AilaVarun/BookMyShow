@@ -1,4 +1,4 @@
-package dev.varun.bookmyshow.models;
+package dev.varun.bookmyshow.Models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.OneToMany;

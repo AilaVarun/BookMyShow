@@ -1,7 +1,7 @@
-package dev.varun.bookmyshow.models;
+package dev.varun.bookmyshow.Models;
 
-import dev.varun.bookmyshow.models.enums.PaymentMode;
-import dev.varun.bookmyshow.models.enums.PaymentStatus;
+import dev.varun.bookmyshow.Models.enums.PaymentMode;
+import dev.varun.bookmyshow.Models.enums.PaymentStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Enumerated;
 import lombok.Getter;

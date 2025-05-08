@@ -1,8 +1,9 @@
-package dev.varun.bookmyshow.models.enums;
+package dev.varun.bookmyshow.Models.enums;
 
 public enum BookingStatus {
 
     PENDING,
     CONFIRMED,
     CANCELLED,
+    FAILED,
 }
